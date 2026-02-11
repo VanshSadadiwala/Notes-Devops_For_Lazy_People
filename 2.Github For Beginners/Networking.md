@@ -12,6 +12,7 @@ Master GitHub with this exercise and network too! <br>
 5. Create a Pull Request and you're all set <br>
 
 <br>
+---
 
 ## Monil Patel 🚀 <br>
 
