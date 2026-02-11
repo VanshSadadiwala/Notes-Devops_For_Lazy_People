@@ -11,7 +11,6 @@ Master GitHub with this exercise and network too! <br>
 4. git add → commit → push <br>
 5. Create a Pull Request and you're all set <br>
 
---- 
 <br>
 
 ## Monil Patel 🚀 <br>
@@ -24,8 +23,7 @@ Master GitHub with this exercise and network too! <br>
 **Links** <br>
 - LinkedIn: https://www.linkedin.com/in/monilmakesmagic <br>
 - GitHub: https://github.com/codewithmonil <br>
-
---- 
+ 
 <br>
 
 ## Rahul Patel 🚀 <br>
@@ -39,7 +37,6 @@ Master GitHub with this exercise and network too! <br>
 - LinkedIn: https://www.linkedin.com/in/monilmakesmagic <br>
 - GitHub: https://github.com/codewithmonil <br>
 
---- 
 <br>
 
 ## Add Your Profile Below <br>
