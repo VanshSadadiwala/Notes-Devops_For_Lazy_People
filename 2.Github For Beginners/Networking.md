@@ -24,7 +24,7 @@ Master GitHub with this exercise and network too! <br>
 - LinkedIn: https://www.linkedin.com/in/monilmakesmagic <br>
 - GitHub: https://github.com/codewithmonil <br>
 
---- 
+---  <br>
 
 ## Rahul Patel 🚀 <br>
 
@@ -37,7 +37,7 @@ Master GitHub with this exercise and network too! <br>
 - LinkedIn: https://www.linkedin.com/in/monilmakesmagic <br>
 - GitHub: https://github.com/codewithmonil <br>
 
---- 
+---  <br>
 
 ## Add Your Profile Below <br>
 Copy the format and paste your own DETAILS HERE <br>
