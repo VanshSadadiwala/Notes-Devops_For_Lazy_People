@@ -11,7 +11,7 @@ Docker is used to **Isolate** and **Containerize** applications, making them:
 - Lightweight and fast
 - Easy to deploy across different environments
 
-#### Before Kubernetes, we have to learn Docker
+#### Before Terraform and Kubernetes, we have to learn Docker
 Before diving into container orchestration, understanding Docker and containerization is essential. Docker is the foundation for modern DevOps practices.
 
 <br>
