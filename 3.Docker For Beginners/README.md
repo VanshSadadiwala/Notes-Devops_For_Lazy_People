@@ -152,6 +152,11 @@ docker exec <container-name>
 docker compose up
 ```
 
+#### Show what's running
+````bash
+docker compose ps
+````
+
 #### Stops and deletes all the containers created by compose file
 ```bash
 docker compose down
