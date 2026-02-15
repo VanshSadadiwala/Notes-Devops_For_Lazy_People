@@ -54,5 +54,17 @@ Master GitHub with this exercise and network too! <br>
  
 <br>
 
+## Vansh Sadadiwala 🚀 <br>
+
+**ML | DL | Data Science | Web Developer | DSA Problem Solver** <br>
+
+- Currently working on building Real world projects integrated with AI<br>
+- Problems i am facing: Seeking for genuine paid/unpaid internships<br>
+
+**Links** <br>
+- LinkedIn: https://www.linkedin.com/in/vansh-sadadiwala-518571283/ <br>
+- GitHub: https://github.com/VanshSadadiwala <br>
+ 
+<br>
 ## Add Your Profile Below <br>
 Copy the format and paste your own DETAILS HERE <br>
